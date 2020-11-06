@@ -7,16 +7,16 @@ Jupyter notebooks to analyze various precincts/wards for the 2020 election. Each
 Plots of the first digits of counts in various precincts and wards for selected counties/cities. 
 
 ### Fulton County, GA:
-![Fulton County](/fulton.png)
+![Fulton County](/images/fulton.png)
 
 ### Miami-Dade, FL
-![Miami-Dade](/miami_dade.png)
+![Miami-Dade](/images/miami_dade.png)
 
 ### Milwaukee, WI
-![Milwaukee](/milwaukee.png)
+![Milwaukee](/images/milwaukee.png)
 
 ### Chicago, IL
-![Chicago](/chicago.png)
+![Chicago](/images/chicago.png)
 
 ### Allegheny, PA
-![Allegheny](/allegheny.png)
+![Allegheny](/images/allegheny.png)
