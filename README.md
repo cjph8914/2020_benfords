@@ -11,7 +11,7 @@ Jupyter notebooks to analyze various precincts/wards for the 2020 election. Each
 
 ## Here's plots of the first digits of counts in various precincts and wards for selected counties/cities:
 
-N is the total number of precincts and wards. P is the p value for the chi sqaure test for testing benford's law. P value means the chance of getting a result this extreme by chance. P values less than 0.001 are displayed in scientific notation. The lower the P value more likely the distribution doesn't fit benford's law. 
+N is the total number of precincts and wards. P is the p value for the chi sqaure test for testing benford's law. P value means the chance of getting a result this extreme by chance. P values less than 0.001(0.1%) are displayed in scientific notation. The lower the P value more likely the distribution doesn't fit benford's law. 
 
 ### Fulton County, GA:
 ![Fulton County](/images/fulton.png)
