@@ -1,3 +1,6 @@
+# I don't Beleive the anylis is valid because the underlying precinct populations don't follow Benford's law
+
+
 # First digit visualization of in selected counties/cities in the 2020 presidential election.
 
 Jupyter notebooks to analyze various precincts/wards for the 2020 election. Each notebook has either a source URL for the dataset or a link to the spreadsheet that was downloaded and parsed.
