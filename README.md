@@ -1,4 +1,4 @@
-# I don't Beleive this analysis is valid because the underlying precinct populations don't follow Benford's law
+# I don't beleive this analysis is valid because the underlying precinct populations don't follow Benford's law
 
 
 # First digit visualization of in selected counties/cities in the 2020 presidential election.
